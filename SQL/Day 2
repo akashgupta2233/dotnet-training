@@ -1,0 +1,33 @@
+CAP-.NE-DEC-ONL-0027
+
+
+
+
+
+--Case 1
+
+--SELECT 
+--		EmpiD as  Employee_Id, 
+--		EmployeeName  as Employee_Name 
+--from 
+--		tbl_employee
+
+--CASE 2
+--SELECT 
+--		EmpiD as  Employee_Id, 
+--		EmployeeName  as Employee_Name 
+--from 
+--		tbl_employee T
+
+--SELECT * from tbl_employee for JSON AUTO
+ --SELECT 10 +400 RESULT -- from DUAL
+
+--SELECT 'Valid Records' MyCol,* from tbl_employee
+
+--SELECT * into tbl_employee_backup from tbl_employee
+
+
+
+
+
+
